@@ -1,0 +1,3 @@
+NAME                       READY   STATUS             RESTARTS      AGE
+cld-text-87d7dd968-7j96v   1/1     Completed          6 (69s ago)   8m38s
+cld-text-87d7dd968-kgxck   1/1     Completed          6 (76s ago)   8m38s
